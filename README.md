@@ -1,0 +1,3 @@
+# presets
+- eslint
+- typescript
